@@ -352,6 +352,10 @@
     "translation": "začnout diskusní vlákno"
   },
   {
+    "id": "set_profile_pic",
+    "translation": "Nastavit profilový obrázek"
+  },  
+  {
     "id": "show",
     "translation": "ukázat"
   },
