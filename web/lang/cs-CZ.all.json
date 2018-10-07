@@ -5,7 +5,7 @@
   },
   {
     "id": "dashboard",
-    "translation": "Dashboard"
+    "translation": "Nástěnka"
   },
   {
     "id": "new_memo",
@@ -33,7 +33,7 @@
   },
   {
     "id": "protocol",
-    "translation": "protokol"
+    "translation": "Protokol"
   },
   {
     "id": "disclaimer",
@@ -61,7 +61,7 @@
   },
   {
     "id": "balance",
-    "translation": "Bilance"
+    "translation": "Zůstatek"
   },
   {
     "id": "profile",
@@ -73,7 +73,7 @@
   },
   {
     "id": "view_your_profile",
-    "translation": "Prohlídnout profil"
+    "translation": "Zobrazit profil"
   },
   {
     "id": "set_name",
@@ -175,15 +175,15 @@
   },
   {
     "id": "view_on_block_explorer",
-    "translation": "Prohlídnout na prohlížeči blocků"
+    "translation": "Zobrazit v bločence"
   },
   {
     "id": "view_address_on_block_explorer",
-    "translation": "Prohlídnout adresu na prohlížeči blocků"
+    "translation": "Zobrazit adresu v bločence"
   },
   {
     "id": "view_name_on_block_explorer",
-    "translation": "Prohlídnout jméno na prohlížeči blocků"
+    "translation": "Zobrazit jméno v bločence"
   },
   {
     "id": "page",
@@ -329,7 +329,7 @@
   },
   {
     "id": "view_topic",
-    "translation": "prohlídnout téma"
+    "translation": "prohlédnout téma"
   },
   {
     "id": "search",
@@ -349,7 +349,7 @@
   },
   {
     "id": "start_thread",
-    "translation": "začnout diskusní vlákno"
+    "translation": "začít diskuzní vlákno"
   },
   {
     "id": "show",
@@ -361,6 +361,6 @@
   },
   {
     "id": "topics_following",
-    "translation": "témata sledovány"
+    "translation": "témata sledována"
   }
 ]
